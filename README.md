@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohammad ismail hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad ismail hossain" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ismail360/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad ismail hossain" height="30" width="40" /></a>
 <a href="https://fb.com/ismail hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ismail hossain" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/codewithismail" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codewithismail" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/code_with_ismail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="code_with_ismail" height="30" width="40" /></a>
