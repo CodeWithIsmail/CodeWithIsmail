@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hi 👋, I'm Ismail Hossain<br><br>A Software Engineering undergrad student from Bangladesh<br><br><br>🌱 I’m currently learning Problem Solving, App Development, Web development<br><br>💬 Ask me about DSA, Problem solving<br><br><br>
+## Hi 👋, I'm Ismail Hossain
+<br><br>
+### A Software Engineering undergrad student from Bangladesh
+<br><br><br>🌱 I’m currently learning Problem Solving, App Development, Web development<br><br>💬 Ask me about DSA, Problem solving<br><br><br>
 
 
 ## 🌐 Socials:
