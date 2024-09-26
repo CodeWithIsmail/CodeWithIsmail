@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithismail&label=Profile%20views&color=0e75b6&style=flat" alt="codewithismail" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithismail" alt="codewithismail" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/hossainismail04" target="blank"><img src="https://img.shields.io/twitter/follow/hossainismail04?logo=twitter&style=for-the-badge" alt="hossainismail04" /></a> </p>
 
 - 🌱 I’m currently learning **Problem Solving, App Development, Flutter**
@@ -22,12 +20,62 @@
 <a href="https://www.leetcode.com/codewithismail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codewithismail" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Code_with_Ismail&theme=rose_pine&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/Code_with_Ismail)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithismail&show_icons=true&locale=en&layout=compact" alt="codewithismail" /></p>
+![LeetCode Stats](https://leetcard.jacoblin.cool/CodeWithIsmail?theme=nord&font=Tomorrow&ext=heatmap)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithismail&show_icons=true&locale=en" alt="codewithismail" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithismail&" alt="codewithismail" /></p>
+<h3>Profile Statistics:</h3>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeWithIsmail&theme=gotham)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodeWithIsmail&theme=gotham)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodeWithIsmail&theme=gotham)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodeWithIsmail&theme=gotham) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CodeWithIsmail&theme=gotham&utcOffset=8) 
+
+
+<h3>Profile Streak:</h3> 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=CodeWithIsmail&theme=merko&hide_border=true)](https://git.io/streak-stats)
+
+
+<h3>Skills & Expertise:</h3>
+
+**📋 Lanuages:**
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+
+**📚 Frameworks & Platforms:**
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+
+**💾 Database:**
+
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE0.svg?style=for-the-badge&logo=firebase&logoColor=white)
+
+
+**🕓 Version Control:**
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+**💻 IDEs/Editors:**
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-0E5B76.svg?style=for-the-badge&logo=apache-netbeans&logoColor=white)
 
