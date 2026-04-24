@@ -1,81 +1,144 @@
-<h1 align="center">Hi 👋, I'm Ismail Hossain</h1>
-<h3 align="center">A Software Engineering undergrad student from Bangladesh</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithismail&label=Profile%20views&color=0e75b6&style=flat" alt="codewithismail" /> </p>
-
-<p align="left"> <a href="https://twitter.com/hossainismail04" target="blank"><img src="https://img.shields.io/twitter/follow/hossainismail04?logo=twitter&style=for-the-badge" alt="hossainismail04" /></a> </p>
-
-- 🌱 I’m currently learning **Problem Solving, App Development, Flutter**
-
-- 💬 Ask me about **DSA, Problem solving**
-
-- 📫 How to reach me **hmismail360@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hossainismail04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hossainismail04" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohammad ismail hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad ismail hossain" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/codewithismail" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codewithismail" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/code_with_ismail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="code_with_ismail" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/codewithismail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codewithismail" height="30" width="40" /></a>
+<h1 align="center">Hi 👋, I'm Mohammad Ismail Hossain</h1>
+<h3 align="center">Software Engineering Undergrad @IIT,DU | Full Stack Web Developer | App Developer</h3>
+<p align='center'>
+<img src="https://komarev.com/ghpvc/?username=codewithismail&label=Profile%20views&color=0e75b6&style=flat" alt="codewithismail" />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/codewithismail"> <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/codewithismail">
 </p>
 
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Code_with_Ismail&theme=rose_pine&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/Code_with_Ismail)
+<p align="center">
+<img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codewithismail&theme=moltack" />
+<img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codewithismail&theme=moltack"  />
+<img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codewithismail&theme=moltack"  />
+</p>
+<br>
+<p align="center">
+<img align="center" width="40%" src="https://codeforces-readme-stats.vercel.app/api/card?username=Code_with_Ismail&theme=solarized-light&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/Code_with_Ismail" />
+<img align="center" width="45%" src="https://leetcard.jacoblin.cool/CodeWithIsmail?theme=forest&font=Tomorrow&ext=heatmap"  />
+</p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/CodeWithIsmail?theme=nord&font=Tomorrow&ext=heatmap)
+<br>
+<!-- ===================== TOP BUTTONS ===================== -->
+<div align="center">
 
+<a href="https://drive.google.com/file/d/1YZM5xIQXTA8aHJY03Pk4dWON1PQg6jCQ/view?usp=sharing">
+  <img src="https://img.shields.io/badge/My%20CV-CodeWithIsmail-blue?style=for-the-badge&logo=readthedocs&logoColor=white" />
+</a> 
 
-<h3>Profile Statistics:</h3>
+<a href="https://www.linkedin.com/newsletters/codewithismail-7378320319066959872/">
+  <img src="https://img.shields.io/badge/LinkedIn-Read%20My%20Blogs-black?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeWithIsmail&theme=gotham)
+<a href="https://portfolio.devismail.me/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-red?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodeWithIsmail&theme=gotham)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodeWithIsmail&theme=gotham)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodeWithIsmail&theme=gotham) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CodeWithIsmail&theme=gotham&utcOffset=8) 
+</div>
 
+<br/>
 
-<h3>Profile Streak:</h3> 
+<!-- ===================== SOCIAL ICONS ===================== -->
+<p align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=CodeWithIsmail&theme=merko&hide_border=true)](https://git.io/streak-stats)
-
-
-<h3>Skills & Expertise:</h3>
-
-**📋 Lanuages:**
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-
-**📚 Frameworks & Platforms:**
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-
-
-**💾 Database:**
-
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE0.svg?style=for-the-badge&logo=firebase&logoColor=white)
+<a href="mailto:ismail.iit.du@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="32" />
+</a>
 
 
-**🕓 Version Control:**
+<a href="https://www.facebook.com/ismail.hossain.101004">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="32" />
+</a>
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+<a href="https://linkedin.com/in/ismail-iitdu">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="32" />
+</a>
 
 
-**💻 IDEs/Editors:**
+<a href="https://youtube.com/@codewithismail360?feature=shared">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" height="32" />
+</a>
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-0E5B76.svg?style=for-the-badge&logo=apache-netbeans&logoColor=white)
+
+<a href="https://codeforces.com/profile/code_with_ismail">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="32" />
+</a>
+
+<a href="https://leetcode.com/codewithismail">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="32" />
+</a>
+
+</p>
+
+<!-- Skill Section -->
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27"><i> Skills: </i>
+
+<!-- Banners 4th Phase : SpiderMan -->
+<p align = 'right'>
+<img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="40%">
+</p>
+<!-- Banners 4th Phase : SpiderMan -->
+
+#### 🦖 Competitive Programming
+
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg)
+
+#### 📚 Frontend Development & Frameworks
+
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios2.svg)
+
+#### ⛏️ Backend Development & Database Services
+
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma1.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql3.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NestJS/nestjs1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase1.svg)
+
+#### 😡 App Development
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase3.svg)
+
+#### 🚦 Version Control
+
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg)
+
+<!-- Skill Section -->
+
+
+<h1 align="center"><b><i><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Contribution Stack ✌️</i></b> </h1>
+
+<!-- Contribution Statistics and Visuals -->
+<p align="center">
+<img align="left" src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="120px" height="150px">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=codewithismail&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=530&card_height=210" />
+<img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif"  width="130px" height="150px">
+</p>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithismail&theme=tokyo-day" width="70%" />
+</p>
+<p align="center">
+<img width="70%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeWithIsmail&theme=moltack" />
+</p>
 
